@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elias/RiderProjects/MantisNetCoreTask/MantisNetCoreTask/MantisNetCoreTask.csproj": {}
+  },
+  "projects": {
+    "/Users/elias/RiderProjects/MantisNetCoreTask/MantisNetCoreTask/MantisNetCoreTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elias/RiderProjects/MantisNetCoreTask/MantisNetCoreTask/MantisNetCoreTask.csproj",
+        "projectName": "MantisNetCoreTask",
+        "projectPath": "/Users/elias/RiderProjects/MantisNetCoreTask/MantisNetCoreTask/MantisNetCoreTask.csproj",
+        "packagesPath": "/Users/elias/.nuget/packages/",
+        "outputPath": "/Users/elias/RiderProjects/MantisNetCoreTask/MantisNetCoreTask/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/elias/.dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
